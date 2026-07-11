@@ -6,7 +6,7 @@
 
 ```powershell
 scoop bucket add nuitsjp https://github.com/nuitsjp/scoop-bucket
-scoop install nuitsjp/commit-spark
+scoop install nuitsjp/CommitSpark
 ```
 
 Manifests in `bucket/` are generated and pushed automatically by GoReleaser
