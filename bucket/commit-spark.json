@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nuitsjp/commit-spark/releases/download/v0.0.1/commit-spark_windows_amd64.zip",
+            "bin": [
+                "csp.exe"
+            ],
+            "hash": "20781eb58b5b0a4a6a12545d5d92816dc0eb8e876f9bc6a4c40e0bd8240508c9"
+        }
+    },
+    "homepage": "https://github.com/nuitsjp/commit-spark",
+    "license": "MIT",
+    "description": "Generate Japanese Conventional Commits messages from the staged diff via Codex CLI and commit them."
+}
